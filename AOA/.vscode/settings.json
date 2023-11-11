@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "initializer_list": "c",
+        "xutility": "c",
+        "stdlib.h": "c",
+        "LCS2.C": "cpp"
+    }
+}

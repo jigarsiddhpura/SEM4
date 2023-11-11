@@ -1,0 +1,49 @@
+
+(best case)
+Enter n: 10000
+Time by quick sort : 252
+Time by merge sort : 1102
+
+(worst case)
+Enter n: 10000
+Time by quick sort : 167
+Time by merge sort : 738
+
+(avg case)
+Enter n: 10000
+Time by quick sort : 1043
+Time by merge sort : 871
+
+(best case)
+Enter n: 30000
+Time by quick sort :2375 
+Time by merge sort : 2775
+
+(worst case)
+Enter n: 30000
+Time by quick sort : 1659
+Time by merge sort : 2508
+
+(avg case)
+Enter n: 30000
+Time by quick sort : 3527
+Time by merge sort : 2416
+
+(best case)
+Enter n: 40000
+Time by quick sort : 4177
+Time by merge sort : 3199
+
+(worst case)
+Enter n: 40000
+Time by quick sort : 2741
+Time by merge sort : 4479
+
+(avg case)
+Enter n: 40000
+Time by quick sort : 4542
+Time by merge sort : 4195
+
+
+
+above is the no. of clocks = no. of instructions

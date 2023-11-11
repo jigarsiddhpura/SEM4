@@ -1,0 +1,49 @@
+
+(best case)
+Enter n: 10000
+Time by insertion sort : 63.000000
+Time by selection sort : 149718.000000
+
+(worst case)
+Enter n: 10000
+Time by insertion sort : 212882.000000
+Time by selection sort : 149185.000000
+
+(avg case)
+Enter n: 10000
+Time by insertion sort : 82719.000000
+Time by selection sort : 147113.000000
+
+(best case)
+Enter n: 30000
+Time by insertion sort : 148.000000
+Time by selection sort : 1339508.000000
+
+(worst case)
+Enter n: 30000
+Time by insertion sort : 2014636.000000
+Time by selection sort : 1386040.000000
+
+(avg case)
+Enter n: 30000
+Time by insertion sort : 793657.000000
+Time by selection sort : 1368820.000000
+
+(best case)
+Enter n: 50000
+Time by insertion sort : 222.000000
+Time by selection sort : 4105829.000000
+
+(worst case)
+Enter n: 50000
+Time by insertion sort : 5878606.000000
+Time by selection sort : 4330142.000000
+
+(avg case)
+Enter n: 50000
+Time by insertion sort : 3046633.000000
+Time by selection sort : 4462348.000000
+
+
+
+above is the no. of clocks = no. of instructions
